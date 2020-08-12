@@ -8,4 +8,4 @@ Given the following example data structure. Write a single function to print out
 ![readable](https://raw.githubusercontent.com/vaishalijagtap/arrayProcessing/master/screens/readable.PNG)
 
 ### Sorted array in User Readable format
-![sorted](https://raw.githubusercontent.com/vaishalijagtap/web50-projects-2020-x-1/master/screens/sorted.PNG)
+![sorted](https://raw.githubusercontent.com/vaishalijagtap/arrayProcessing/master/screens/sorted.PNG)
